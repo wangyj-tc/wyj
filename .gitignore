@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+target/
+_site/
+.idea
+*.iml
+*.swp
+.checkstyle
+*.log
+.DS_Store
+/bin/
