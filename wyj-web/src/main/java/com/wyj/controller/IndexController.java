@@ -14,7 +14,6 @@ public class IndexController {
 
   @PostMapping("index")
   public BaseResponse getIndex() {
-    int i = 1/0;
     return BaseResponse.builder().data("success").build();
   }
 

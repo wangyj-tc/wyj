@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="wyj-core" />
+        <module name="wyj-job" />
         <module name="wyj-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="wyj" target="1.8" />
       <module name="wyj-core" target="1.8" />
+      <module name="wyj-job" target="1.8" />
       <module name="wyj-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
