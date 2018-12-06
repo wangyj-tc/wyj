@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wyj.iml" filepath="$PROJECT_DIR$/wyj.iml" />
       <module fileurl="file://$PROJECT_DIR$/wyj-core/wyj-core.iml" filepath="$PROJECT_DIR$/wyj-core/wyj-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-es/wyj-es.iml" filepath="$PROJECT_DIR$/wyj-es/wyj-es.iml" />
       <module fileurl="file://$PROJECT_DIR$/wyj-job/wyj-job.iml" filepath="$PROJECT_DIR$/wyj-job/wyj-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-redis/wyj-redis.iml" filepath="$PROJECT_DIR$/wyj-redis/wyj-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/wyj-web/wyj-web.iml" filepath="$PROJECT_DIR$/wyj-web/wyj-web.iml" />
     </modules>
   </component>
